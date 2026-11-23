@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aq_bg">#F6F8F7</color>
+    <color name="aq_green">#16A34A</color>
+    <color name="aq_text">#111827</color>
+    <color name="aq_text_secondary">#6B7280</color>
+    <color name="aq_stroke">#E5E9E7</color>
+    <color name="aq_tile">#F7F8F8</color>
+    <color name="aq_blue">#2563EB</color>
+    <color name="aq_nav_inactive">#8A94A3</color>
+</resources>
