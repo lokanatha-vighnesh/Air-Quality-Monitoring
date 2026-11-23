@@ -15,7 +15,7 @@ AirSense is an Android application designed to help users monitor indoor and out
 
 ## Download
 
-<a href="YOUR_APK_DOWNLOAD_LINK">Download AirSense APK</a>
+<a href="https://github.com/lokanatha-vighnesh/Air-Quality-Monitoring/blob/master/app-debug.apk">Download APK</a>
 
 Download the APK, install it on your Android device, and start monitoring your air quality.
 
