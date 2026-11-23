@@ -1,4 +1,4 @@
-# AirSense – Air Quality Monitoring App
+# Air Quality Monitoring App
 
 AirSense is an Android application designed to help users monitor indoor and outdoor air quality in one place. It provides air-quality information, visualizes environmental conditions, predicts future indoor gas levels, and offers alerts and recommendations to help users maintain a healthier environment.
 
